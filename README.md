@@ -1,4 +1,5 @@
 # REXY
+A DALL-E CLONE!!
 
 While building this application, I learnt how to use the most in-demand tools today:
 1. Node.js, Express.js, MongoDB, and React.js together form the powerful MERN stack
