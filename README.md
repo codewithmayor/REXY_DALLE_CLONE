@@ -7,8 +7,11 @@ I was fascinated by the potential of this technology and wanted to create my own
 This application was built using the MERN stack: Node.js, Express.js, MongoDB, and React.js.
 
 Node.js and Express.js provided the backend server and API endpoints.
+
 MongoDB served as our database to store user information and image metadata.
+
 React.js was used to create a dynamic and responsive user interface.
+
 Cloudinary: A cloud-based image storage service.
 
 URL: https://taupe-taffy-3dc901.netlify.app/
